@@ -1,4 +1,4 @@
-edited headers so it actually compiles on ubuntu 22.04
+edited headers so it actually compiles on ubuntu 22.04 
 build is available in packages
 
 <img src="assets/vibrant.svg" width="64" alt="Logo" title="vibrant Logo"> vibrant
