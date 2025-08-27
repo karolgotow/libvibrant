@@ -51,7 +51,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <vibrant/vibrant.h>
+#include "vibrant.h"
 
 /**
  * Find the output on the RandR screen resource by name.
