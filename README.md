@@ -1,3 +1,5 @@
+edited headers so it actually compiles on ubuntu 22.04
+
 <img src="assets/vibrant.svg" width="64" alt="Logo" title="vibrant Logo"> vibrant
 -------
 **:warning: NOTE :warning:**
